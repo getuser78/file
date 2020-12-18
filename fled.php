@@ -1,8 +1,8 @@
 {"GlobalCanliTvPro":[
-{"ads_tip":"Admob",
+{"ads_tip":"Facebook",
 "main_link":"https://github.com/getuser09/file/raw/master/app/pays.php",
-"app_id":"ca-app-pub-7985394147902755~9237927704",
-"banner_unit_id":"ca-app-pub-7985394147902755/2672519355",
-"inter_unit_id":"ca-app-pub-7985394147902755/1359437682",
+"app_id":"240555393761530",
+"banner_unit_id":"583004352309411_583254492284397",
+"inter_unit_id":"583004352309411_583261545617025",
 "iron_id":""},
 ]}
